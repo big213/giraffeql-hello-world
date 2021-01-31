@@ -1,0 +1,24 @@
+{
+  "name": "jomql-hello-world",
+  "version": "1.0.0",
+  "description": "A very simple jomql backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/big213/jomql-hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/big213/jomql-hello-world/issues"
+  },
+  "homepage": "https://github.com/big213/jomql-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jomql": "^0.3.2"
+  }
+}
