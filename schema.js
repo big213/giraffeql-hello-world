@@ -1,8 +1,8 @@
 // register the root resolver
 
-const { JomqlRootResolverType, BaseScalars } = require("jomql");
+const { GiraffeqlRootResolverType, BaseScalars } = require("giraffeql");
 
-module.exports = new JomqlRootResolverType({
+module.exports = new GiraffeqlRootResolverType({
   name: "getHelloWorld",
   restOptions: {
     method: "get",

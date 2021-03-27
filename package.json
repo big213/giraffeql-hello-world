@@ -19,6 +19,6 @@
   "homepage": "https://github.com/big213/jomql-hello-world#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jomql": "^0.3.3"
+    "giraffeql": "^2.0.1"
   }
 }
